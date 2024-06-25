@@ -32,7 +32,7 @@ To install the ChatPDF App, please follow these steps:
    ```
 
 ## Usage
-To use the MultiPDF Chat App, follow these steps:
+To use the ChatPDF App, follow these steps:
 
 1. Ensure that you have installed the required dependencies and added the OpenAI API key to the `.env` file.
 
